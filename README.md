@@ -8,4 +8,4 @@ php -S localhost:8080
 
 Open browser and point to 
 
-http://localhost:8080
+http://localhost:8080/demo.php
